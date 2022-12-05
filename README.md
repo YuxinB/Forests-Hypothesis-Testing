@@ -1,1 +1,1 @@
-# Forests-Hypothesis-Testing
+# Forests Hypothesis Testing via Mutual Information
